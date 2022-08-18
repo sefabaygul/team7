@@ -10,6 +10,6 @@ public class C01_team7Deneme {
 
 
         System.out.println("team7 branch deneme 8 samet");
-        System.out.println("team7 branch deneme 9git  samet");
+        System.out.println("team7 branch deneme 9 samet");
     }
 }
