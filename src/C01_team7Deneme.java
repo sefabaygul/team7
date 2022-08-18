@@ -7,5 +7,8 @@ public class C01_team7Deneme {
         System.out.println("team7 branch deneme 5");
         System.out.println("team7 branch deneme 6");
         System.out.println("team7 branch deneme 7");
+        System.out.println("team7 branch deneme 6 sefa");
+        System.out.println("team7 branch deneme 7 sefa");
+
     }
 }
